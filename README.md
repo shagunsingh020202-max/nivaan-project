@@ -32,5 +32,3 @@ NIVAAN AI is a smart platform designed to assist animal rescue teams, NGOs, rura
 - Real-time GPS Integration
 - NGO Collaboration Network
 
-### Team
-Royal 2.0
