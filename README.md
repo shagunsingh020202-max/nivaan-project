@@ -1,20 +1,36 @@
 # NIVAAN AI
 
-## Problem
-Animal rescue systems lack proper tracking and coordination.
+## Smart Animal Rescue & Livestock Assistance Platform
 
-## Solution
-NIVAAN AI helps report, track, and manage animal rescue cases efficiently.
+### Overview
+NIVAAN AI is a smart platform designed to assist animal rescue teams, NGOs, rural livestock owners, and urban citizens through data-driven rescue management and analytics.
 
-## Features
-- Animal rescue reporting
-- Case tracking
-- Dashboard
-- AI-powered assistance
+### Features
+- Rural Livestock Assistance
+- Urban Rescue Case Registration
+- Live Rescue Dashboard
+- Rescue Analysis
+- Emergency Support Network
+- Rescue Location Mapping
+- NGO Performance Analytics
+- Downloadable Rescue Reports
+- Interactive Charts & Visualizations
 
-## Technology
+### Tech Stack
 - Python
 - Streamlit
+- Pandas
+- Plotly
+- Data Visualization
+- Dashboard Analytics
+- Geospatial Mapping
+- Report Generation
 
-## How to Run
-streamlit run app.py
+### Future Scope
+- Mobile Application
+- AI-powered Rescue Prediction
+- Real-time GPS Integration
+- NGO Collaboration Network
+
+### Team
+Royal 2.0
