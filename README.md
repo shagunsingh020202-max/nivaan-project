@@ -1,34 +1,107 @@
-# NIVAAN AI
+# 🐾 NIVAAN AI
 
-## Smart Animal Rescue & Livestock Assistance Platform
+> **AI-Powered Animal Rescue & Livestock Health Monitoring System**
 
-### Overview
-NIVAAN AI is a smart platform designed to assist animal rescue teams, NGOs, rural livestock owners, and urban citizens through data-driven rescue management and analytics.
+NIVAAN AI is an intelligent platform designed to improve animal welfare through Artificial Intelligence. It helps identify animal health issues, simplifies rescue reporting, and supports faster decision-making for NGOs, veterinarians, rescuers, and farmers.
 
-### Features
-- Rural Livestock Assistance
-- Urban Rescue Case Registration
-- Live Rescue Dashboard
-- Rescue Analysis
-- Emergency Support Network
-- Rescue Location Mapping
-- NGO Performance Analytics
-- Downloadable Rescue Reports
-- Interactive Charts & Visualizations
+---
 
-### Tech Stack
+## 🌐 Live Demo
+
+https://nivaan-project-lswppzbzedrwhxqtd3zkyo.streamlit.app/
+
+---
+
+## 📌 Problem Statement
+
+Millions of stray and livestock animals suffer due to delayed medical care, lack of monitoring, and slow rescue response. Existing systems are often manual and inefficient, making timely intervention difficult.
+
+---
+
+## 💡 Solution
+
+NIVAAN AI provides an AI-powered platform for animal rescue and livestock health monitoring. It enables users to report rescue cases, monitor animal health, and improve response time through a simple and user-friendly interface.
+
+---
+
+## ✨ Features
+
+- 🐶 Animal Rescue Reporting
+- 🤖 AI-Based Animal Health Analysis
+- 📊 Interactive Dashboard
+- 📍 Easy Information Management
+- ⚡ User-Friendly Interface
+- 🌍 Scalable for NGOs, Farmers, and Rescue Organizations
+
+---
+
+## 🛠 Tech Stack
+
 - Python
 - Streamlit
 - Pandas
-- Plotly
-- Data Visualization
-- Dashboard Analytics
-- Geospatial Mapping
-- Report Generation
+- NumPy
+- OpenCV
+- Machine Learning
+- TensorFlow *(if used)*
 
-### Future Scope
+---
+
+## 📂 Project Structure
+
+```
+nivaan-project/
+│── app.py
+│── requirements.txt
+│── README.md
+```
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/shagunsingh020202-max/nivaan-project.git
+```
+
+Go to the project directory:
+
+```bash
+cd nivaan-project
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application:
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 🎯 Future Scope
+
+- Real-time GPS Rescue Tracking
 - Mobile Application
-- AI-powered Rescue Prediction
-- Real-time GPS Integration
-- NGO Collaboration Network
+- IoT Device Integration
+- Advanced AI Disease Prediction
+- Multi-language Support
+- Cloud Database Integration
 
+---
+
+## 📄 License
+
+This project is developed for educational, research, and hackathon purposes.
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
